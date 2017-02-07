@@ -8,6 +8,6 @@ View this website at:
 [Google Pages website] (https://sites.google.com/view/ladojo/home)
 which currently is much more developed.)
 
-We can use this so kids in the Dojo can learn Javascript, HTML, CSS,
+We can use this so Dojo participants can learn Javascript, HTML, CSS,
 and other web skills.
 
